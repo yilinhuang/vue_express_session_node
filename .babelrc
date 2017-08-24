@@ -1,0 +1,7 @@
+//在项目根目录下  yarn add webpack
+
+{
+    "presets": [
+        ["env",{"modules":false}]
+    ]
+}
